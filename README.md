@@ -24,6 +24,3 @@ This website is ideal for demonstrating frontend development skills and creating
 - **CSS3** – Styling, layout, and responsiveness  
 
 ---
-
-## 📁 Project Structure
-
